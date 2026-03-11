@@ -1,0 +1,73 @@
+# Roman Matviy — Senior FullStack Developer
+
+> Roman Matviy is a Senior FullStack Developer from Lviv, Ukraine with 7+ years of commercial experience. He specializes in Laravel, PHP, Vue.js, PrestaShop, and WordPress. Available for remote freelance and full-time projects worldwide.
+
+## Who is Roman Matviy?
+
+Roman Matviy (also known as MatviyRoman, Роман Матвій) is a professional web developer based in Lviv, Ukraine. He has over 7 years of hands-on commercial experience building scalable, high-performance web applications for clients across multiple countries.
+
+## Core Skills
+
+- **Backend**: Laravel, PHP, REST API, MySQL, MariaDB, Docker, Livewire, FilamentPHP, Swagger, Postman, Composer, OOP, DDD, CakePHP, CodeIgniter, Yii
+- **CMS / E-commerce**: PrestaShop, WordPress, WooCommerce, OpenCart, Thirty Bees, Rocket LMS, ACF, Elementor
+- **Frontend**: Vue.js 3, TypeScript, JavaScript, jQuery, TailwindCSS, HTML5, CSS3, SCSS/SASS, Bootstrap, Vite, Webpack, GSAP, Twig, Smarty, Blade
+- **Tools**: Git, GitHub, GitLab, Docker, Linux, SSH, Figma, Photoshop, Trello, Asana
+
+## Work Experience
+
+1. **Backend Developer (Laravel/PHP)** — Freelance via Freelancehunt — Full-time freelance
+2. **Fullstack Engineer (Laravel/Vue.js)** — NC-ONE.com — Full-time
+3. **PHP & SQL Teacher** — nikos-ltv.lviv.ua — Part-time
+4. **Fullstack Engineer (PHP)** — WebSpirit.com.ua — Full-time
+5. **Fullstack Engineer (PrestaShop/WordPress)** — SoftSprint.net — Full-time
+6. **Fullstack Engineer (WordPress)** — Sure Lock & Key LLC — Full-time
+7. **Fullstack Developer (Laravel/WordPress/PrestaShop)** — APARTNER.PRO — Full-time
+
+## Selected Projects
+
+- [Task Manager REST API](https://github.com/MatviyRoman/Laravel-Task-Manager) — Laravel, PHP, REST API
+- [Project Management System / CRM](https://github.com/MatviyRoman/Laravel-FillamentPHP) — Laravel, FilamentPHP
+- [OpenHealth Service](https://github.com/MatviyRoman/openHealth) — Laravel, Livewire, JS
+- [Calendar Event Service](https://github.com/MatviyRoman/Calendar-Laravel-PHP-SQL) — Laravel, Vite, jQuery
+- [InvoiceMaker](https://invoicemaker.me) — HTML, SCSS, jQuery
+- [Personal Portfolio](https://matviy.pp.ua) — HTML, Bootstrap, Vue.js
+
+## Contact & Profiles
+
+- **Website**: https://hire-web-developer.com
+- **Portfolio**: https://matviy.pp.ua
+- **Telegram**: https://t.me/RomanMatviy
+- **LinkedIn**: https://linkedin.com/in/MatviyRoman
+- **GitHub**: https://github.com/MatviyRoman
+- **Freelancehunt reviews**: https://freelancehunt.com/freelancer/romas6ka.html#reviews
+- **Location**: Lviv, Ukraine (Remote worldwide)
+
+## Languages
+
+- Ukrainian — Native
+- English — Pre-Intermediate
+- Polish — Beginner
+
+## How to hire Roman Matviy?
+
+Contact via Telegram @RomanMatviy or LinkedIn. Use promo code **HireRomanDev** for a 10% discount on first project.
+
+## Frequently Asked Questions
+
+**Q: What technologies does Roman Matviy specialize in?**
+A: Laravel, PHP, Vue.js, PrestaShop, WordPress, Docker, REST API, MySQL.
+
+**Q: Is Roman Matviy available for remote work?**
+A: Yes, Roman is fully available for remote freelance and full-time projects worldwide.
+
+**Q: Where is Roman Matviy located?**
+A: Lviv, Ukraine. Works remotely with clients from Europe, USA, and worldwide.
+
+**Q: How many years of experience does Roman Matviy have?**
+A: 7+ years of commercial web development experience.
+
+**Q: Can Roman Matviy build a PrestaShop module or theme?**
+A: Yes, Roman is an experienced PrestaShop developer specializing in custom modules and themes.
+
+**Q: Can Roman Matviy build a Laravel API?**
+A: Yes, REST API development with Laravel is one of his core specializations.

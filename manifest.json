@@ -1,0 +1,88 @@
+{
+  "name": "Roman Matviy \u2014 Senior FullStack Developer",
+  "short_name": "Roman Matviy",
+  "description": "Senior FullStack Developer specializing in Laravel, PHP, Vue.js, PrestaShop and WordPress. Available for remote projects worldwide.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#07090f",
+  "theme_color": "#4f9eff",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity",
+    "developer"
+  ],
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://roman.matviy.pp.ua/assets/img/photo.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "label": "Roman Matviy \u2014 FullStack Developer Portfolio"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Hire on Telegram",
+      "short_name": "Telegram",
+      "description": "Contact Roman Matviy on Telegram",
+      "url": "https://t.me/RomanMatviy",
+      "icons": [
+        {
+          "src": "https://roman.matviy.pp.ua/assets/img/photo.jpg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn Profile",
+      "short_name": "LinkedIn",
+      "description": "View Roman Matviy on LinkedIn",
+      "url": "https://linkedin.com/in/MatviyRoman",
+      "icons": [
+        {
+          "src": "https://roman.matviy.pp.ua/assets/img/photo.jpg",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "GitHub Projects",
+      "short_name": "GitHub",
+      "description": "View Roman Matviy's open-source projects",
+      "url": "https://github.com/MatviyRoman",
+      "icons": [
+        {
+          "src": "https://roman.matviy.pp.ua/assets/img/photo.jpg",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://hire-web-developer.com"
+    }
+  ],
+  "prefer_related_applications": false
+}
