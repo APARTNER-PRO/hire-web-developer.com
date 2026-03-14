@@ -300,6 +300,8 @@ footer a { color:var(--accent);text-decoration:none; }
 @media(max-width:640px){ .promo-banner{padding:24px 16px} header{padding:44px 0 32px} .step{flex-direction:column;gap:8px} }
 
 .seo-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+
+  .nav-cta{background:var(--gradient)!important;-webkit-background-clip:text!important;-webkit-text-fill-color:transparent!important;background-clip:text!important;font-weight:700!important;}
 </style>
 
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What types of Laravel projects do you build?","acceptedAnswer":{"@type":"Answer","text":"REST APIs, CRM/ERP systems, e-commerce backends, SaaS platforms, healthcare systems, booking platforms, and custom business logic applications. If it runs on PHP, I can build it with Laravel."}},{"@type":"Question","name":"Do you work with existing Laravel codebases?","acceptedAnswer":{"@type":"Answer","text":"Yes. I can audit, refactor, upgrade (e.g., Laravel 8 → 11), add new features, or fix bugs in existing projects. I'm comfortable reading and extending others' code."}},{"@type":"Question","name":"Can you set up Docker for my Laravel project?","acceptedAnswer":{"@type":"Answer","text":"Absolutely. I set up Laravel Sail or custom Docker Compose environments with Nginx, PHP-FPM, MySQL, Redis, and more — fully production-ready."}},{"@type":"Question","name":"Do you write API documentation?","acceptedAnswer":{"@type":"Answer","text":"Yes. I document all APIs using Swagger/OpenAPI or Postman collections so your frontend team or third-party integrators can work independently."}},{"@type":"Question","name":"What is your typical hourly rate?","acceptedAnswer":{"@type":"Answer","text":"Rates depend on project complexity and duration. Contact me on Telegram to discuss. Use code HireRomanDev for 10% off your first project."}}]}</script>
@@ -328,22 +330,18 @@ footer a { color:var(--accent);text-decoration:none; }
 <div class="glow-orb glow-orb-1"></div>
 <div class="glow-orb glow-orb-2"></div>
 
-<nav>
-  <div class="container">
-    <div class="nav-inner">
-      <a href="/" class="nav-logo"><span>Roman</span> Matviy</a>
-      <div class="nav-links">
-        <a href="/" class="nav-link">Home</a>
-        <a href="/laravel-developer/" class="nav-link ">Laravel</a>
-        <a href="/php-developer/" class="nav-link ">PHP</a>
-        <a href="/vuejs-developer/" class="nav-link ">Vue.js</a>
-        <a href="/prestashop-developer/" class="nav-link ">PrestaShop</a>
-        <a href="/wordpress-developer/" class="nav-link ">WordPress</a>
-        <a href="https://t.me/RomanMatviy" class="nav-link" target="_blank" rel="noopener noreferrer">Hire Me ↗</a>
-      </div>
-    </div>
+<nav><div class="container"><div class="nav-inner">
+  <a href="/" class="nav-logo"><span>Roman</span> Matviy</a>
+  <div class="nav-links">
+    <a href="/" class="nav-link">Home</a>
+    <a href="/about.html" class="nav-link">About</a>
+    <a href="/laravel/index.html" class="nav-link">Laravel</a>
+    <a href="/pricing/" class="nav-link">Pricing</a>
+    <a href="/reviews/" class="nav-link">Reviews</a>
+    <a href="/contact/" class="nav-link">Contact</a>
+    <a href="https://t.me/RomanMatviy" class="nav-link nav-cta" target="_blank" rel="noopener noreferrer">Hire Me ↗</a>
   </div>
-</nav>
+</div></div></nav>
 
 <div class="container">
   <header>
@@ -486,6 +484,16 @@ footer a { color:var(--accent);text-decoration:none; }
     <a href="https://t.me/RomanMatviy" target="_blank" rel="noopener noreferrer">Telegram</a> ·
     <a href="https://matviy.pp.ua" target="_blank" rel="noopener noreferrer">Portfolio</a>
   </p>
+
+    <p style="margin-top:8px;font-size:12px;font-family:'DM Mono',monospace;">
+      <a href="/about.html" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">About</a> ·
+      <a href="/laravel/index.html" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">Laravel</a> ·
+      <a href="/hire-wordpress-developer.html" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">WordPress</a> ·
+      <a href="/hire-flex-developer.html" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">Freelance</a> ·
+      <a href="/pricing/" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">Pricing</a> ·
+      <a href="/reviews/" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">Reviews</a> ·
+      <a href="/contact/" style="color:var(--muted);text-decoration:none;" onmouseover="this.style.color='var(--accent)'" onmouseout="this.style.color='var(--muted)'">Contact</a>
+    </p>
 </footer>
 
 </div>
